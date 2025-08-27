@@ -1,6 +1,6 @@
 module github.com/mulesoft-anypoint/terraform-provider-anypoint
 
-go 1.20
+go 1.23.0
 
 require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.24.0
@@ -72,7 +72,7 @@ require (
 	github.com/vmihailenco/tagparser v0.1.1 // indirect
 	github.com/zclconf/go-cty v1.11.0 // indirect
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d // indirect
-	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
